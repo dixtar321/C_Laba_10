@@ -1,0 +1,11 @@
+﻿  Source.c
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 2\Лаба 10\Source.c(5,24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 2\Лаба 10\Source.c(6,23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 2\Лаба 10\Source.c(9,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 2\Лаба 10\Source.c(10,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  func.c
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 2\Лаба 10\func.c(14,15): warning C4013: find_v2: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 2\Лаба 10\func.c(16,24): warning C4013: no_func_check: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 2\Лаба 10\func.c(19,22): warning C4013: symbol_check: нет определения; предполагается "extern" с возвратом типа "int"
+  Создание кода...
+  Лаба 10.vcxproj -> C:\Users\alex_\OneDrive\Рабочий стол\Задания\Информатика\семак 2\Лаба 10\Debug\Лаба 10.exe

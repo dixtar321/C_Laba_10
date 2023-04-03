@@ -1,0 +1,8 @@
+#pragma once
+void copy_word(char* dst, 
+	       char* scr, 
+	       int start, 
+	       int end) ; 
+void my_strcmp(char* s1, int k) ; 
+int my_letters(char* s1, int k) ; 
+char* get_string(int* len) ; 
